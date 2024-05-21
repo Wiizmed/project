@@ -1,0 +1,50 @@
+.twobutton{
+    position: absolute;
+    top:80%;
+    display: block;
+   margin: auto;
+   
+   
+   left:46%;
+   right: 320px
+
+
+}
+#guessbutton{
+    float: right;
+  
+}
+#restart{
+    float: left;
+  
+}
+
+#guessInput{
+    width: 96%;
+    top: 500px;;
+    left: 50%;
+    right: 320px;
+  
+
+   
+
+}
+.in{
+    top: 500px;;
+    left: 50%;
+    right: 320px;
+   
+   
+    display: block;
+   margin: auto;
+   
+   
+   
+}
+
+#result{
+    top:50%; 
+    left:50%;
+   right: 50%;
+
+}
